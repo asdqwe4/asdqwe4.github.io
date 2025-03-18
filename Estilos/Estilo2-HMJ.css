@@ -1,0 +1,94 @@
+body.Color1 {
+	background-color: #cab6ff;
+}
+
+h4
+{
+	letter-spacing:1px;
+	font-style:italic;
+	font-size:30px;
+	color: #721ffa;
+	font-style:bond;
+}
+
+body.Imagen1 {
+	background-image: url("../Imagenes/Imagen1.jpg");
+	background-size: cover;
+}
+
+h1
+{
+	letter-spacing:8px;
+	font-family:Comic Sans MS;
+	font-size:40px;
+	color: #260065;
+	font-style:bond;
+}
+
+div.Div3 {
+	width: 590px;
+	height:300px;
+	border: 5px solid #5d25ff ;
+	background-color: #d2fffe ;
+	text-align: left;
+	color: black;
+	font-size: 20;
+	font-style:italic;
+	letter-spacing:2px;
+	font-weight: 100%;
+	background-image: url("../Imagenes/Imagen2.jpg");
+	float: left;
+	font-style:bond;
+	padding-left: 30px;
+}
+
+div.Div4 {
+	width:500px;
+	float: left;
+}
+
+h3
+{
+	text-align:center;
+	font-size: 25;
+	font-family:Comic Sans MS;
+	font-style:bond;
+}
+
+div.Div1 {
+	width: 600px;
+	height:300px;
+	border: 5px solid #0f8692 ;
+	background-color: #d2fffe ;
+	text-align:left;
+	color: black;
+	font-style:italic;
+	letter-spacing:2px;
+	font-weight: 100%;
+	background-image: url("../Imagenes/Imagen3.jpg");
+	float:right;
+	font-style:bond;
+}
+
+div.Div2 {
+	width:600px;
+	float: right;
+}
+
+h2
+{
+	font-style:bond;
+	font-size: 21;
+}
+
+div.Div5 {
+	border: 5px solid #eceeff ;
+	position: absolute;
+	top: 200px;
+	left: 520px;
+	width: 570px;
+	height:350px;
+	text-align: center;
+	color: Blue;
+	font-size:16;
+}
