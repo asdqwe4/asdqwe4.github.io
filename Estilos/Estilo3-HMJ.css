@@ -61,7 +61,7 @@ h3
             transition-timing-function: linear;
             position: absolute;
 			margin: 5px;
-            top: 635px;
+            top: 650px;
             left: 1410px;
             display: inline-block; /* Para que se comporte como un botón */
             text-align: center; /* Centra el texto */
