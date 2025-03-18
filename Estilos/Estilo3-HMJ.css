@@ -216,7 +216,7 @@ div.Div6 {
             position: absolute;
             top: 270px; /* Posición inicial */
             left: 1190px;
-            height: 440px;
+            height: 450px;
             animation: estirar 1s ease-in-out infinite; /* Duración de 3 segundos */
         }
 
