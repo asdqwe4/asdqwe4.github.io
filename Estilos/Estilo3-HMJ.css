@@ -223,7 +223,7 @@ div.Div6 {
         @keyframes estirar {
             0%, 100% {
                 transform: scale(1, 1); /* Tamaño original */
-                top: 285px; /* Mantiene la posición original */
+                top: 270px; /* Mantiene la posición original */
             }
             50% {
                 transform: scale(1, 1.03); /* Estira solo verticalmente a 103% */
