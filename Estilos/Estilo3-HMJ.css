@@ -215,7 +215,7 @@ div.Div6 {
  .estiramiento {
             position: absolute;
             top: 260px; /* Posición inicial */
-            left: 1180px;
+            left: 1170px;
             height: 430px;
             animation: estirar 1s ease-in-out infinite; /* Duración de 3 segundos */
         }
